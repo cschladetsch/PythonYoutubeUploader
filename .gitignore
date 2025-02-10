@@ -3,4 +3,5 @@ secrets.json
 __pycache__/
 *.pyc
 /client_*
+/secret*
 
