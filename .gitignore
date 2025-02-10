@@ -2,6 +2,8 @@ client_secrets.json
 secrets.json
 __pycache__/
 *.pyc
+*.mp4
+*.mkv
 /client_*
 /secret*
 
